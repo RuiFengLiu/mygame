@@ -1,0 +1,409 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "datingbeijing",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "guang_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guang_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "guanggaopai": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                0,
+                5
+              ]
+            },
+            {
+              "frame": 3.75,
+              "value": [
+                0,
+                -5
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "g_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.95
+              }
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1.05
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 100
+            }
+          ]
+        }
+      },
+      "diban_sg/g_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -443,
+                57
+              ]
+            },
+            {
+              "frame": 3.75,
+              "value": [
+                427,
+                57
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 50
+            },
+            {
+              "frame": 2.9166666666666665,
+              "value": 50
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.7916666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 3.2916666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.2083333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 255
+            },
+            {
+              "frame": 3.7083333333333335,
+              "value": 255
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.2083333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 255
+            },
+            {
+              "frame": 3.7083333333333335,
+              "value": 255
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.625,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 4.125,
+              "value": 255
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.625,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 4.125,
+              "value": 255
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.0416666666666665,
+              "value": 0
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 255
+            },
+            {
+              "frame": 4.541666666666667,
+              "value": 255
+            },
+            {
+              "frame": 4.583333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_7": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.0416666666666665,
+              "value": 0
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 255
+            },
+            {
+              "frame": 4.541666666666667,
+              "value": 255
+            },
+            {
+              "frame": 4.583333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_8": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.0833333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.4583333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 4.958333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "deng/deng_9": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.0833333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.4583333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 4.958333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
